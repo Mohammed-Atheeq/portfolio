@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/atheeq-portfolio/static/css/main.730dd910.css",
-    "main.js": "/atheeq-portfolio/static/js/main.476e6e69.js",
+    "main.js": "/atheeq-portfolio/static/js/main.4cbddc32.js",
     "static/js/453.acca0757.chunk.js": "/atheeq-portfolio/static/js/453.acca0757.chunk.js",
     "static/media/Pic.jpg": "/atheeq-portfolio/static/media/Pic.6324c041d39c9c271b47.jpg",
     "static/media/cyber-fort.jpg": "/atheeq-portfolio/static/media/cyber-fort.9cb36c72c89ca0f4da5d.jpg",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "/atheeq-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/atheeq-portfolio/index.html",
     "main.730dd910.css.map": "/atheeq-portfolio/static/css/main.730dd910.css.map",
-    "main.476e6e69.js.map": "/atheeq-portfolio/static/js/main.476e6e69.js.map",
+    "main.4cbddc32.js.map": "/atheeq-portfolio/static/js/main.4cbddc32.js.map",
     "453.acca0757.chunk.js.map": "/atheeq-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.730dd910.css",
-    "static/js/main.476e6e69.js"
+    "static/js/main.4cbddc32.js"
   ]
 }
