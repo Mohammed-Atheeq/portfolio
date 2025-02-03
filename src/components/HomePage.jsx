@@ -195,7 +195,7 @@ function HomePage() {
           </p>
 
           <div className="resume">
-            <a href="/Mohammed-Atheeq-Resume.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="https://mohammed-atheeq.github.io/Mohammed-Atheeq-Resume.pdf" target="_blank" rel="noopener noreferrer">
               View Full Resume{" "}
               <FontAwesomeIcon icon={faArrowUp} className="resume-icon" />
             </a>
