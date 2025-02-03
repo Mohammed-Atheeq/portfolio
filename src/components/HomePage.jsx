@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, { useEffect, useState } from "react";
 import pic from "../images/Pic.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
@@ -195,7 +195,11 @@ function HomePage() {
           </p>
 
           <div className="resume">
-            <a href="/Mohammed-Atheeq-Resume.pdf" target="_blank" rel="noopener noreferrer">
+            <a
+              href="/Mohammed-Atheeq-Resume.pdf"
+              target="_blank"
+              rel="noreferrer"
+            >
               View Full Resume{" "}
               <FontAwesomeIcon icon={faArrowUp} className="resume-icon" />
             </a>
@@ -250,21 +254,31 @@ function HomePage() {
 
             <div className="footer">
               <ul>
-                <a href="https://github.com/Mohammed-Atheeq" target="_blank">
+                <a
+                  href="https://github.com/Mohammed-Atheeq"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <FontAwesomeIcon icon={faGithub} />
                 </a>
                 <a
                   href="https://www.linkedin.com/in/mohammed-atheeq/"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <FontAwesomeIcon icon={faLinkedin} />
                 </a>
-                <a href="https://www.instagram.com/athxxq__/" target="_blank">
+                <a
+                  href="https://www.instagram.com/athxxq__/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <FontAwesomeIcon icon={faInstagram} />
                 </a>
                 <a
                   href="https://www.facebook.com/mohammed.atheeq.1675"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <FontAwesomeIcon icon={faFacebook} />
                 </a>
