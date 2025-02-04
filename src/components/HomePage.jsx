@@ -196,7 +196,7 @@ function HomePage() {
 
           <div className="resume">
             <a
-              href="/atheeq-portfolio/Mohammed-Atheeq-Resume.pdf"
+              href="/portfolio/resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
