@@ -81,7 +81,7 @@ function HomePage() {
     <div className="home">
       <div className="header">
         <div className="profile">
-          <div className="profile-name">Mohammed Atheeq</div>
+          <div className="profile-name">Mohammed Atheeq Nizam</div>
 
           <div className="role">Full-Stack Web Developer</div>
           <div className="profile-content">
